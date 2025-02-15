@@ -34,7 +34,7 @@ To successfully work on this project, you’ll need the following tools:
 ## 📌 Getting Started
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/data-warehouse-analytics.git
+   git clone https://github.com/NaveedAhmed55/data-warehouse-from-scratch
    ```
 2. **Set up SQL Server Express** and configure the database.
 3. **Load datasets** into SQL Server and create tables.
